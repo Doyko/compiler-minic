@@ -1,0 +1,6 @@
+foo int;
+
+void main()
+{
+    
+}

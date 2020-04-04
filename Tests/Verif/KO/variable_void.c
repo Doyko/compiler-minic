@@ -1,0 +1,6 @@
+void a;
+
+void main()
+{
+
+}
